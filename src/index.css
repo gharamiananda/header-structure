@@ -1,0 +1,9 @@
+.middle__header .navbar>.container,
+
+
+.middle__header .navbar>.container-sm {
+  display: flex;
+  flex-wrap: inherit;
+  align-items: center;
+  justify-content: center;
+}
